@@ -8,7 +8,6 @@ cask "focusbase" do
   desc "The universal progress notifier"
   homepage "https://focusbase.com"
 
-  depends_on arch: :arm64
   depends_on macos: ">= :catalina"
 
   app "Focusbase.app"
