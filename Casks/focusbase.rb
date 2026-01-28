@@ -1,6 +1,6 @@
 cask "focusbase" do
-  version "2.6.9"
-  sha256 "76cb551302f22e14685f6d2f72b28254037d228992527f964a426b72075ae0f9"
+  version "2.7.0"
+  sha256 "c278cc996f3a1fd30d4ded416641286d3677d2a62c054dd1ccd01c18f81369de"
 
   url "https://github.com/andrewschreiber/dozy-releases/releases/download/v#{version}/Focusbase-#{version}-arm64.dmg",
       verified: "github.com/andrewschreiber/dozy-releases/"
